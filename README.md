@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://api.solve-nyang.com/compose/dynamite885" width="600" height="300"/>" />
+<img src="https://api.solve-nyang.com/compose/dynamite885" width="600" height="300"/>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dynamite885)](https://solved.ac/dynamite885)
